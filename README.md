@@ -51,13 +51,10 @@ Once done, you can work on the project, commit, push it to your fork and open a 
 #### Member 1 (Include your name here) - Data ingestion & cleaning
 Files: 
 - [] src/data.py
-- [] src/utils.py
 
 Tasks:
 - [] Create load_data(path) to read CSVs.
 - [] Implement cleaning: handle missing values, encode categorical variables, feature selection.
-- [] Add helper utilities (train/test split, column renaming).
-- [] Write docstrings for each function.
 
 #### Member 2 (Include your name here) — Exploratory data analysis & visualization
 Files: 
@@ -82,16 +79,27 @@ Tasks:
 
 #### Member 4 (sa2357) — Repository structure & environment management
 Files: 
-- [] environment.yml
+- [x] environment.yml
 - [x] README.md
 - [x] project root
+- [x] project files and analysis file
+
 
 Tasks:
-- [] Create and maintain environment.yml.
-- [] Write clear README.md describing structure and usage.
-- [] Ensure folder hierarchy
+- [x] Create and maintain environment.yml.
+- [x] Write clear README.md describing structure and usage.
+- [x] Ensure folder hierarchy
 - [] Manage version control (branch naming, pull requests, code review workflow).
 
 ### Documentation and Datasets
 Dataset originally from Kaggle: https://www.kaggle.com/datasets/sakshisatre/titanic-dataset
 Task assigned by Adrian Ochs for D100: https://open-wound-6e6.notion.site/Ex-4-Jupyter-notebook-to-proper-repo-28f5fbd9d211807893e8dfddf7b3ae42
+
+
+Baseline model - one function
+process name - 10 functions
+fare interval - 6 functions
+age interval - 3 functions
+family size - 3 functions
+univariate analysis - 1 function
+missing data - 6 functions
