@@ -59,7 +59,7 @@ Tasks:
 - [] Add helper utilities (train/test split, column renaming).
 - [] Write docstrings for each function.
 
-#### Member 2 (Include your name here) — Exploratory data analysis & visualization
+#### Member 2 (lmkr2) — Exploratory data analysis & visualization
 Files: 
 - [] src/visualize.py
 - [] notebooks/analysis.ipynb (EDA section)
