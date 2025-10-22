@@ -20,7 +20,7 @@ conda env create -f environment.yml
 
 Then activate the environment:
 ```bash
-conda activate <env-name>
+conda activate titanic-env
 ```
 
 Once done, you can work on the project, commit, push it to your fork and open a pull request for the project owner (sa2357) can review the code and approve it.
@@ -82,7 +82,7 @@ Tasks:
 
 #### Member 4 (sa2357) — Repository structure & environment management
 Files: 
-- [x] environment.yml
+- [] environment.yml
 - [x] README.md
 - [x] project root
 
