@@ -48,7 +48,7 @@ Once done, you can work on the project, commit, push it to your fork and open a 
 ## Meta Information
 ### Member Information
 
-#### Member 1 (Include your name here) - Data ingestion & cleaning
+#### Member 1 (dec52) - Data ingestion & cleaning
 Files: 
 - [] src/data.py
 
