@@ -56,7 +56,7 @@ Tasks:
 - [] Create load_data(path) to read CSVs.
 - [] Implement cleaning: handle missing values, encode categorical variables, feature selection.
 
-#### Member 2 (Include your name here) — Exploratory data analysis & visualization
+#### Member 2 (lmkr2) — Exploratory data analysis & visualization
 Files: 
 - [] src/visualize.py
 - [] notebooks/analysis.ipynb (EDA section)
