@@ -48,7 +48,7 @@ Once done, you can work on the project, commit, push it to your fork and open a 
 ## Meta Information
 ### Member Information
 
-#### Member 1 (Include your name here) - Data ingestion & cleaning
+#### Member 1 (dec52) - Data ingestion & cleaning
 Files: 
 - [] src/data.py
 
@@ -94,12 +94,3 @@ Tasks:
 ### Documentation and Datasets
 Dataset originally from Kaggle: https://www.kaggle.com/datasets/sakshisatre/titanic-dataset
 Task assigned by Adrian Ochs for D100: https://open-wound-6e6.notion.site/Ex-4-Jupyter-notebook-to-proper-repo-28f5fbd9d211807893e8dfddf7b3ae42
-
-
-Baseline model - one function
-process name - 10 functions
-fare interval - 6 functions
-age interval - 3 functions
-family size - 3 functions
-univariate analysis - 1 function
-missing data - 6 functions
