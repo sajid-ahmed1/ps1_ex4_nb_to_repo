@@ -56,7 +56,7 @@ Tasks:
 - [] Create load_data(path) to read CSVs.
 - [] Implement cleaning: handle missing values, encode categorical variables, feature selection.
 
-#### Member 2 (Include your name here) — Exploratory data analysis & visualization
+#### Member 2 (lmkr2) — Exploratory data analysis & visualization
 Files: 
 - [] src/visualize.py
 - [] notebooks/analysis.ipynb (EDA section)
@@ -94,12 +94,3 @@ Tasks:
 ### Documentation and Datasets
 Dataset originally from Kaggle: https://www.kaggle.com/datasets/sakshisatre/titanic-dataset
 Task assigned by Adrian Ochs for D100: https://open-wound-6e6.notion.site/Ex-4-Jupyter-notebook-to-proper-repo-28f5fbd9d211807893e8dfddf7b3ae42
-
-
-Baseline model - one function
-process name - 10 functions
-fare interval - 6 functions
-age interval - 3 functions
-family size - 3 functions
-univariate analysis - 1 function
-missing data - 6 functions
