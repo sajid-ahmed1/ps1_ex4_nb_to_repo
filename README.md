@@ -58,12 +58,12 @@ Tasks:
 
 #### Member 2 (lmkr2) — Exploratory data analysis & visualization
 Files: 
-- [] src/visualize.py
+- [x] src/visualize.py (tried to, but did not manage yet to call the functions from the files so they are also in the notebook)
 - [] notebooks/analysis.ipynb (EDA section)
 
 Tasks:
-- [] Implement plots: survival rates by gender/class, age histograms, correlations.
-- [] Use matplotlib or seaborn.
+- [x] Implement plots: survival rates by gender/class, age histograms, correlations.
+- [x] Use matplotlib or seaborn.
 - [] Replace notebook EDA code cells with function calls.
 - [] Keep charts consistent and reusable.
 
