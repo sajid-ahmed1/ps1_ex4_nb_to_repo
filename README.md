@@ -50,22 +50,22 @@ Once done, you can work on the project, commit, push it to your fork and open a 
 
 #### Member 1 (dec52) - Data ingestion & cleaning
 Files: 
-- [] src/data.py
+- [x] src/data.py
 
 Tasks:
-- [] Create load_data(path) to read CSVs.
-- [] Implement cleaning: handle missing values, encode categorical variables, feature selection.
+- [x] Create load_data(path) to read CSVs.
+- [x] Implement cleaning: handle missing values, encode categorical variables, feature selection.
 
 #### Member 2 (lmkr2) — Exploratory data analysis & visualization
 Files: 
 - [x] src/visualize.py (tried to, but did not manage yet to call the functions from the files so they are also in the notebook)
-- [] notebooks/analysis.ipynb (EDA section)
+- [x] notebooks/analysis.ipynb (EDA section)
 
 Tasks:
 - [x] Implement plots: survival rates by gender/class, age histograms, correlations.
 - [x] Use matplotlib or seaborn.
-- [] Replace notebook EDA code cells with function calls.
-- [] Keep charts consistent and reusable.
+- [x] Replace notebook EDA code cells with function calls.
+- [x] Keep charts consistent and reusable.
 
 #### Member 3 (Include your name here) — Modeling & evaluation
 Files: 
@@ -89,7 +89,7 @@ Tasks:
 - [x] Create and maintain environment.yml.
 - [x] Write clear README.md describing structure and usage.
 - [x] Ensure folder hierarchy
-- [] Manage version control (branch naming, pull requests, code review workflow).
+- [x] Manage version control (branch naming, pull requests, code review workflow).
 
 ### Documentation and Datasets
 Dataset originally from Kaggle: https://www.kaggle.com/datasets/sakshisatre/titanic-dataset
