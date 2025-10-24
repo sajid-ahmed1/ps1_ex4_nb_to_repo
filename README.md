@@ -67,7 +67,7 @@ Tasks:
 - [] Replace notebook EDA code cells with function calls.
 - [] Keep charts consistent and reusable.
 
-#### Member 3 (Include your name here) — Modeling & evaluation
+#### Member 3 (rs2374) — Modeling & evaluation
 Files: 
 - [] src/model.py
 
